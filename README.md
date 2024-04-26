@@ -32,8 +32,15 @@ HOW TO PLAY:
 
 - Defeat all enemies from every location to save Gotham City
 
+5) Important notes
+
+- The location selection process is totally random and can't be controlled. The user must keep rotating through locations until they reach the 4 different areas and complete each respective quest.
+
+
 
 CREDITS:
 
 - Developed by Brandon David Ewanick
 - Inspired by Batman universe and DC comics
+
+HAVE FUN!!
